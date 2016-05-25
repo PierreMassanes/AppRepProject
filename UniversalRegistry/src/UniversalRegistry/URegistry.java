@@ -5,7 +5,6 @@ import java.rmi.AlreadyBoundException;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.util.List;
-import javax.jms.*;
 
 public interface URegistry extends Remote {
 

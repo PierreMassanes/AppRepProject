@@ -1,7 +1,5 @@
 package UniversalRegistry;
 
-import sun.text.normalizer.Utility;
-
 import java.rmi.AlreadyBoundException;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
