@@ -48,7 +48,8 @@ public class ServiceClientImpl implements ServiceClient, Serializable {
     }
 
     @Override
-    public void publish(String content) throws RemoteException {
+    public void publish(String nom, String content) throws RemoteException {
 
     }
+
 }
